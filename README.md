@@ -54,6 +54,7 @@ I am an Sophomore at School of Engineering, Cochin University of Science and Tec
   <img src="https://github-readme-rutkuli.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vision-friendly-dark&hide_border=false&username=Midhunnnnnnnn" height="150" alt="languages graph"  />
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Midhunnnnnnnn&theme=merko&hide_border=true)<br/>
+![Snake animation](https://github.com/Midhunnnnnnnn/Midhunnnnnnnn/raw/main/dist/github-contribution-grid-snake.svg)
 
 </div>
 
