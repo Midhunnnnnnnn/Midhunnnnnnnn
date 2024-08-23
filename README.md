@@ -1,23 +1,19 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Midhun </h1>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Lives-Kerala-success" />
-  <img src="https://komarev.com/ghpvc/?username=naaji-navas&color=brightgreen&style=flat-square" alt="views on github" />
-  <img src="https://img.shields.io/github/followers/naaji-navas.svg?style=social&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Midhunnnnnnnn&color=brightgreen&style=flat-square" alt="views on github" />
+  <img src="https://img.shields.io/github/followers/Midhunnnnnnnn.svg?style=social&label=Followers" />
 </p>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Welcome+to+my+profile+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=0000FF&vCenter=true&width=650&lines=Hi+There+%F0%9F%8E%83)](https://git.io/typing-svg)
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-
-
--  I’m currently working as a Software Developer Intern at Notime.
-
-<p>Connect with me on
+<p>SOCIALS
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/midhun-s-manoj-330652258"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
@@ -29,7 +25,7 @@
 ###
 
 <div align="left">
-<h2> Lets talk about </h2>
+<h2>My Interests </h2>
  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
