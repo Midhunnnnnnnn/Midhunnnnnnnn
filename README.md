@@ -98,7 +98,7 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 
- ### 👉 Software & Tools
+ 👉 Software & Tools
  
 <p>
   &emsp;
@@ -117,14 +117,7 @@
      &emsp;
     &emsp;
 
-    # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-rutkuli.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&username=Midhunnnnnnnn" height="150" alt="stats graph"  />
-  <img src="https://github-readme-rutkuli.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vision-friendly-dark&hide_border=false&username=Midhunnnnnnnn" height="150" alt="languages graph"  />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Midhunnnnnnnn&theme=merko&hide_border=true)<br/>
-
-</div>
 </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Midhunnnnnnnn&theme=gruvbox" />
