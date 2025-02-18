@@ -1,6 +1,11 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Midhun </h1>
- <p align="center">
+<div style="text-align: center;">
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Profile-gif" width="100%">
+</div>
+
+
+# 💫 About Me: 
+<p align="center">
 <img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Lives-Kerala-success" />
   <img src="https://komarev.com/ghpvc/?username=Midhunnnnnnnn&color=brightgreen&style=flat-square" alt="views on github" />
@@ -9,7 +14,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=0000FF&vCenter=true&width=650&lines=Hi+There+%F0%9F%8E%83)](https://git.io/typing-svg)
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
